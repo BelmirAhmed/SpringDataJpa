@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SpringdataApplication<springdata>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.springdatajpa.springdata.SpringdataApplication",
+      "projectName": "springdata",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
